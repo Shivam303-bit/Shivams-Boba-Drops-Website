@@ -1,0 +1,55 @@
+body {
+	font-family: system-ui, sans-serif;
+	place-content: center;
+	margin: 0;
+	text-align: center;
+	background-color: aquamarine;
+}
+
+.header{
+	text-align: center;
+	background-color: antiquewhite;
+	box-sizing: border-box;
+	padding: 30px 20px;
+	transition: 1.0s ease;
+}
+
+.header:hover{
+	background-color: black;
+	color: antiquewhite;
+
+}
+
+.body{
+	text-align: center;
+	color:brown;
+	background-color: aquamarine;
+	box-sizing: border-box;
+	padding: 200px 20px;
+	transition: 1.0s ease;
+}
+
+.body:hover{
+	background-color: brown;
+	color: aquamarine;
+}
+
+.body a{
+	color:blueviolet;
+	padding: 20px 30px;
+	background-color: aliceblue;
+	border-radius: 10px;
+	transition: 1.0s ease;
+}
+
+.body a:hover{
+		background-color: bisque;
+		
+}
+
+
+
+
+
+
+
